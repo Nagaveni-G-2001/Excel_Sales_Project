@@ -31,5 +31,5 @@ This project can help companies:
 - Data storytelling with Excel  
 
 📫 Contact  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn Profile URL]  
+Email: [nagavenig075@gmail.com]  
+LinkedIn: [https://www.linkedin.com/in/nagaveni2001/]  
