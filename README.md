@@ -4,9 +4,9 @@
 This project focuses on building a professional Sales Analytics dashboard using Excel to analyze sales, profit, and customer trends. The goal is to empower businesses to make informed decisions using clean and actionable data.  
 
 **🎯 Objectives**
-- Analyze customer performance through detailed reports 📄 https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/SalesData.xlsx
+- Analyze customer performance through detailed reports 
 
-- Compare actual sales performance against targets 📄 https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/SalesData.xlsx
+- Compare actual sales performance against targets 📄 
 
 
 **📌 Key Insights & Techniques**  
