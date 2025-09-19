@@ -14,6 +14,7 @@ This project focuses on building a professional Sales Analytics dashboard using 
 - Created visual dashboards for easy interpretation by stakeholders  
 
 **💼 Business Value**
+
 This project can help companies:  
 - Identify top-performing customers and products  
 - Understand gaps between targets and actual sales  
