@@ -6,7 +6,8 @@ This project focuses on building a professional Sales Analytics dashboard using 
 **🎯 Objectives**
 - Analyze customer performance through detailed reports 
 
-- Compare actual sales performance against targets 📄 
+- Compare actual sales performance against targets 📄 [Customer Performance Report](https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/Customer_Performance_Report.xlsx)
+
 
 
 **📌 Key Insights & Techniques**  
