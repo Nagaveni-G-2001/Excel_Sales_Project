@@ -1,39 +1,68 @@
-**📊 Excel-Based Sales Analytics Dashboard**
 
-**🔍 Project Overview**
-This project focuses on building a professional Sales Analytics dashboard using Excel to analyze sales, profit, and customer trends. The goal is to empower businesses to make informed decisions using clean and actionable data.  
+---
 
-**🎯 Objectives**
-- Analyze customer performance through detailed reports
+# 📊 Excel-Based Sales Analytics Dashboard – AtilQ Hardwares
+
+## 📊 Project Overview
+
+An interactive Sales Analytics Dashboard built in **Microsoft Excel** to analyze **sales performance, growth trends, and performance vs target** across multiple countries and e-commerce platforms. The dashboard consolidates **net sales, YoY growth, and key platform insights** into a single reporting solution for efficient business decision-making.
+
+---
+
+## 🎯 Objectives
+
+* Track **sales trends across countries and platforms**.
+* Compare **actual performance vs targets** to identify gaps.
+* Highlight **top-performing regions and e-commerce channels**.
+* Provide actionable insights for **strategic business planning**.
+
+---
+
+## 📈 Key Insights & Techniques
+
+* Identified **high-growth countries**: India, USA, South Korea, and Canada.
+* Detected **top-performing platforms**: Flipkart, Amazon, AtliQ e-Store.
+* Applied **year-over-year growth analysis** to measure performance trends.
+* Used **pivot tables, conditional formatting, and charts** for interactive dashboards.
+
+---
+
+## 💼 Business Value
+
+* Provides a **clear overview of sales performance** across geographies and platforms.
+* Helps identify **high-potential markets** for business expansion.
+* Reduces manual reporting efforts with **automated Excel dashboards**.
+* Enables **data-driven decision-making** for sales and marketing strategies.
+
+---
+
+## 🛠️ Tools & Skills Applied
+
+* **Microsoft Excel** – Pivot Tables, Charts, Conditional Formatting, Dashboard Design
+* **Data Analytics** – YoY Growth, Performance vs Target, KPI Tracking
+* **Business Analysis** – Sales Segmentation, Insights Extraction, Visualization
+
+---
+
+## 📚 What I Learned
+
+* Developed expertise in **analyzing multi-country sales data**.
+* Learned to create **dynamic dashboards** for management reporting.
+* Understood **platform-wise contributions** to overall revenue.
+* Enhanced **data visualization and storytelling skills** for stakeholders.
 
 
-- Compare actual sales performance against targets 
+## 👥 Contributors
 
+* **Author / Maintainer:** Nagaveni G
 
-**📌 Key Insights & Techniques**  
-- Cleaned and transformed raw sales data using Excel  
-- Used Pivot Tables, Power Query, and calculated fields to build KPIs  
-- Analyzed revenue and profit growth across customers and products  
-- Created visual dashboards for easy interpretation by stakeholders  
+## 📄 License
 
-**💼 Business Value**
+This project is licensed under the [MIT License](LICENSE).
 
-This project can help companies:  
-- Identify top-performing customers and products  
-- Understand gaps between targets and actual sales  
-- Strategically plan marketing, discounts, and expansion  
+## 📫 Contact
 
-**🛠️ Tools & Skills Applied**
-- Excel (Pivot Tables, Power Query, Charts)  
-- Data Cleaning & Transformation (ETL methodology)  
-- Dashboard Design & Visualization  
-- Sales KPI Analysis  
+Email: [nagavenig075@gmail.com](mailto:nagavenig075@gmail.com)  
+LinkedIn: (https://www.linkedin.com/in/nagaveni2001/)
+--
 
-**🧠 What I Learned** 
-- Real-world sales performance tracking  
-- Designing dashboards for clear decision-making  
-- Data storytelling with Excel  
-
-📫 **Contact**  
-**Email**: [nagavenig075@gmail.com]  
-**LinkedIn**: [https://www.linkedin.com/in/nagaveni2001/]  
