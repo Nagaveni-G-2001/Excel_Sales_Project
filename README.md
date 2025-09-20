@@ -1,5 +1,6 @@
 
----
+---[Go to Sales Analytics Dashboard](https://github.com/Nagaveni-G-2001/Excel_Sales_Project/blob/main/README.md#-excel-based-sales-analytics-dashboard--atilq-hardwares)
+
 
 # 📊 Excel-Based Sales Analytics Dashboard – AtilQ Hardwares
 
